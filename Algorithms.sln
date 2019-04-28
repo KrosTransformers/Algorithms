@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciRecursion", "FibonacciRecursion\FibonacciRecursion.csproj", "{68D0CCB0-4A75-4512-AE88-D878B509668A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciDynamic", "FibonacciDynamic\FibonacciDynamic.csproj", "{E5F05294-CEAE-456E-9D3F-2C7AFE85F12D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{68D0CCB0-4A75-4512-AE88-D878B509668A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68D0CCB0-4A75-4512-AE88-D878B509668A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68D0CCB0-4A75-4512-AE88-D878B509668A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F05294-CEAE-456E-9D3F-2C7AFE85F12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F05294-CEAE-456E-9D3F-2C7AFE85F12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F05294-CEAE-456E-9D3F-2C7AFE85F12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F05294-CEAE-456E-9D3F-2C7AFE85F12D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
