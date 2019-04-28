@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciDynamic", "Fibonac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{FC31612D-D83D-4BFC-A675-BBC0134931D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForce", "BruteForce\BruteForce.csproj", "{13C64FA8-6941-446C-8A67-834FDD1CE147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FC31612D-D83D-4BFC-A675-BBC0134931D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC31612D-D83D-4BFC-A675-BBC0134931D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC31612D-D83D-4BFC-A675-BBC0134931D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C64FA8-6941-446C-8A67-834FDD1CE147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C64FA8-6941-446C-8A67-834FDD1CE147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C64FA8-6941-446C-8A67-834FDD1CE147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C64FA8-6941-446C-8A67-834FDD1CE147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
