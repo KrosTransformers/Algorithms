@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForce", "BruteForce\Br
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightMovement", "KnightMovement\KnightMovement.csproj", "{51E44F27-AE64-4DE5-8552-0D709FC764C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTraversal", "GraphTraversal\GraphTraversal.csproj", "{C47B45BA-B114-4BB0-9458-D22D43A7C883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{51E44F27-AE64-4DE5-8552-0D709FC764C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51E44F27-AE64-4DE5-8552-0D709FC764C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51E44F27-AE64-4DE5-8552-0D709FC764C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47B45BA-B114-4BB0-9458-D22D43A7C883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47B45BA-B114-4BB0-9458-D22D43A7C883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47B45BA-B114-4BB0-9458-D22D43A7C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47B45BA-B114-4BB0-9458-D22D43A7C883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
