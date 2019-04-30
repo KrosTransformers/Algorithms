@@ -37,7 +37,7 @@ namespace BinarySearch
             Console.WriteLine();
 
             int index = BinarySearch(data, 0, data.Length - 1, x);
-            if (index > 0)
+            if (index >= 0)
             {
                 Console.WriteLine($"Item was found at index {index}.");
             }

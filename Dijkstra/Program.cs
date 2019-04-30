@@ -89,7 +89,7 @@ namespace Dijkstra
 
                 for (int i = 0; i < SIZE; i++)
                 {
-                    if (_graph[nextNode, i] > 0 && _minDistances[nextNode] + _graph[nextNode, i] < _minDistances[i])
+                    if (_graph[nextNode, i] > 0 && !_SPT.Contains(i) && _minDistances[nextNode] + _graph[nextNode, i] < _minDistances[i])
                     {
                         _minDistances[i] = _minDistances[nextNode] + _graph[nextNode, i];
 
